@@ -2,7 +2,7 @@
 //  OnboardingApp.swift
 //  Onboarding
 //
-//  Created by Busha on 17/02/2025.
+//  Created by Damilare on 17/02/2025.
 //
 
 import SwiftUI
